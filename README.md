@@ -12,8 +12,8 @@ Be sure to save the "RL Trio Shortcut" folder in a location that will not be del
 BakkesMod, and Rocket League installed, do not run this script. You can download each of the additional programs 
 here:
 
-DS4Windows: https://github.com/Jays2Kings/DS4Windows/releases
-BakkesMod: https://bakkesmod.com/download.php
+* DS4Windows: https://github.com/Jays2Kings/DS4Windows/releases
+* BakkesMod: https://bakkesmod.com/download.php
 
 As of now, there are no security precautions to check and see if all of these programs are installed on your system
 before running the script.
