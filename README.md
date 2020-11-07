@@ -44,7 +44,7 @@ The follow files should be in your "RL Trio Shortcut" folder:
 
 
 ## NOTE: ##
-* Sometimes, Bakke's Mod will need an update and will cause Rocket League to get closed. You should be able to reopen
+* Sometimes, BakkesMod will need an update and will cause Rocket League to get closed. You should be able to reopen
   the Rocket League shortcut again without a problem.
 
 * If you would like to revert any changes done by this script, you can remove the Rocket League icon. Navigate to 
