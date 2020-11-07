@@ -16,7 +16,7 @@ here:
 * BakkesMod: https://bakkesmod.com/download.php
 
 As of now, there are no security precautions to check and see if all of these programs are installed on your system
-before running the script.
+before running the script. This only works for the Steam version for now.
 
 
 
