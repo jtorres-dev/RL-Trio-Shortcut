@@ -55,3 +55,4 @@ The follow files should be in your "RL Trio Shortcut" folder:
 
 * If you have any errors, suggestions, improvements, or any comments, feel free to send me a message through 
   Steam: Johnobomb
+  Reddit(Post): Johnobomb
