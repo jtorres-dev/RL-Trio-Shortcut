@@ -1,4 +1,4 @@
-##INTRO:
+##INTRO:##
 This script is designed to simplify the task of opening up DS4Windows, BakkesMod, and Rocket League seperately.
 It will search for the location of DS4, BakkesMod, and Rocket League, and will create an icon with the Rocket League
 logo (which replaces your actual Rocket League icon). This will allow all three programs to be opened up at the same
