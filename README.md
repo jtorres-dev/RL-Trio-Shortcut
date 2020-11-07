@@ -1,5 +1,4 @@
-INTRO:
-======
+##INTRO:
 This script is designed to simplify the task of opening up DS4Windows, BakkesMod, and Rocket League seperately.
 It will search for the location of DS4, BakkesMod, and Rocket League, and will create an icon with the Rocket League
 logo (which replaces your actual Rocket League icon). This will allow all three programs to be opened up at the same
@@ -8,8 +7,7 @@ time with one shortcut.
 
 
 
-DISCLAIMER:
-===========
+##DISCLAIMER:
 Be sure to save the "RL Trio Shortcut" folder in a location that will not be deleted. If you do not have DS4Windows,
 BakkesMod, and Rocket League installed, do not run this script. You can download each of the additional programs 
 here:
@@ -23,8 +21,7 @@ before running the script.
 
 
 
-SETUP:
-======
+##SETUP:
 The follow files should be in your "RL Trio Shortcut" folder:
 	- README.txt (this file)
 	- RL script.ps1
@@ -46,8 +43,7 @@ The follow files should be in your "RL Trio Shortcut" folder:
 
 
 
-NOTE:
-=====
+##NOTE:
 * Sometimes, Bakke's Mod will need an update and will cause Rocket League to get closed. You should be able to reopen
   the Rocket League shortcut again without a problem.
 
