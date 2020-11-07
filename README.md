@@ -23,9 +23,9 @@ before running the script.
 
 ## SETUP: ##
 The follow files should be in your "RL Trio Shortcut" folder:
-	- README.txt (this file)
-	- RL script.ps1
-	- RL.ico
+	* README.txt (this file)
+	* RL script.ps1
+	* RL.ico
 
 1. Right-click on "RL script.ps1" and click on "Run with PowerShell" (This should take few minutes).
 
